@@ -1,1 +1,1 @@
-document.write("This is a javascript code");
+document.write("Tis Tuff DUDE");
